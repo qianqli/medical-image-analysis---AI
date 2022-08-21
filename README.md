@@ -1,1 +1,2 @@
-# medical-image-analysis---AI
+# Medical Image Analysis --- AI
+
